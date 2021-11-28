@@ -1,3 +1,9 @@
-body {background: url(images\mainfitnessbackground.jpg)
+body {
+	line-height: 1;
+	background-image: url("./../../images/mainfitnessbackground.jpg");
+	max-width: 100% ; height: auto ;
+	background-position: bottom ; 
+	background-repeat: no-repeat; 
+	background-size: cover ; 
 }
 h1 {font-size: 200;}
