@@ -31,6 +31,11 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	background-image: url("./../../images/mainfitnessbackground.jpg") !important;
+	max-width: 100% ; height: auto ;
+	background-position: bottom !important; 
+	background-repeat: no-repeat; 
+	background-size: cover !important; 
 }
 
 ol, ul {
