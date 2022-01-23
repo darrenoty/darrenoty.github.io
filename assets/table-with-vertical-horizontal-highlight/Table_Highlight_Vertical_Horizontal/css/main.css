@@ -25,7 +25,6 @@
 body, html {
 	height: 100%;
 	font-family: sans-serif;
-  overflow: hidden;
 }
 
 /* ------------------------------------ */
@@ -98,10 +97,9 @@ iframe {
 }
 
 .container-table100 {
-  width: 80%;
-  margin: auto;
+  width: 100%;
   min-height: 100vh;
-  background: #ffffff;
+  background: #d1d1d1;
 
   display: -webkit-box;
   display: -webkit-flex;
@@ -121,7 +119,7 @@ iframe {
 /*//////////////////////////////////////////////////////////////////
 [ Table ]*/
 table {
-  width: 100%;
+  width:70%;
   margin: auto;
   background-color: #fff;
 }
